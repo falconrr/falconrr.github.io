@@ -17,7 +17,6 @@ navbar-links:
   Teaching: "aboutme"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Research: "aboutme"     
   Research: "aboutme" 
   About/Contact: "aboutme"
   Home: "falconrr.github.io"
