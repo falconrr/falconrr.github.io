@@ -14,11 +14,13 @@ author: Falcon RR
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Teaching: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research: "https://deanattali.com"
+  About/Contact: "aboutme"
+  Home: "falconrr.github.io"
 
 # --- Logo --- #
 
