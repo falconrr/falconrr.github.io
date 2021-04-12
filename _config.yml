@@ -15,10 +15,10 @@ author: Falcon RR
 
 navbar-links:
   Teaching: "aboutme"
-  Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Research: "https://deanattali.com"
+  Research: "aboutme"     
+  Research: "aboutme" 
   About/Contact: "aboutme"
   Home: "falconrr.github.io"
 
