@@ -9,3 +9,5 @@ subtitle: Developing in students deep cultural and linguistic competence with th
 * Introduction to Hispanic Linguistics
 
 ### Project-Based Learning
+
+* Learning based on problem resolution encapsulated in a semester project.  
