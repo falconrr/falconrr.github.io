@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Research and Publications
+title: "<span style='font-size: 50px'> Research and Publications </style>" 
 subtitle:
 ---
