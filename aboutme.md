@@ -5,3 +5,4 @@ title: CV and Contact
 ---
 
 ![alt text](/assets/img/Perfil.jpg)
+<img align="left" width="100" height="100" src="/assets/img/Perfil.jpg">
