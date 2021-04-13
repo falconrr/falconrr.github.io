@@ -32,7 +32,9 @@ subtitle: Developing in students deep cultural and linguistic competence with th
 
 * Learning based on problem resolution encapsulated in a semester project.  
 
-### Awards
+### Teaching Awards
 ***Calvin A. VanderWerf For Excellence in Teaching Award (2018-2019)*** The Graduate School Award for the Highest Ranked Graduate Teaching Assistant at the University of Florida for the 2018-2019 Academic Year.
-
+<p align="center">
+  <img width="300" height="200" src="/assets/img/Calvin.png" >
+</p>
 ***Upper Division Teaching Award (2015-2016)*** Department of Spanish and Portuguese Studies, University of Florida.
