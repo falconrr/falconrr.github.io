@@ -10,4 +10,4 @@ Look for your class below:
 
 * Introduction to Hispanic Linguistics
 
-## Project-Based Learning
+### Project-Based Learning
