@@ -17,8 +17,8 @@ navbar-links:
   Teaching: "teaching"
   Research: "research"
   Your class here:
-    - Data Analysis for Linguists: "https://beautifuljekyll.com"
     - NLP4Spanish: "https://www.markdowntutorial.com/"
+    - Data Analysis for Linguists: "https://beautifuljekyll.com"
   About/Contact: "aboutme"
 
 # --- Logo --- #
