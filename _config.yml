@@ -16,6 +16,7 @@ author: Falcon RR
 navbar-links:
   Teaching: "teaching"
   Research: "research"
+    - SEÑAL: "http://amigo.pythonanywhere.com/"
   Your class here:
     - NLP4Spanish: "https://www.markdowntutorial.com/"
     - Data Analysis for Linguists: "https://beautifuljekyll.com"
