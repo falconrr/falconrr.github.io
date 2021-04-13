@@ -10,26 +10,6 @@ subtitle: Spanish and Linguistics, College of Charleston
   <img class="top" src="/assets/img/Perfil.jpg" />
 </div>
 
-#cf {
-  position:relative;
-  height:281px;
-  width:450px;
-  margin:0 auto;
-}
-
-#cf img {
-  position:absolute;
-  left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
-}
-
-#cf img.top:hover {
-  opacity:0;
-}
-
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp;
