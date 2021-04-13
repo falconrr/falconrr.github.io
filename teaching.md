@@ -17,7 +17,7 @@ subtitle: Developing in students deep cultural and linguistic competence with th
 - UF in Barcelona Accelerated Spanish I & II - Program Director
 - SPN 2200 Intermediate Spanish I - Honors Section
 - SPN 2240 Intensive Communication Skills
-- SPN 3324 Livin' La Vida Caribe~na/Conversaciones Caribe~nas - Course Developer and Instructor
+- SPN 3324 Livin' La Vida Caribeña/Conversaciones Caribeñas - Course Developer and Instructor
 - SPN 3324 The Spanish Language Detective - Course Developer and Instructor
 - SPN 3300 Spanish Grammar and Composition - Honors Section
 - SPN 3700 Introduction to Hispanic Linguistics
