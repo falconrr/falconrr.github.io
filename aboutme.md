@@ -8,7 +8,7 @@ title: "<span style='font-size: 50px'> Dr. Falcon Restrepo-Ramos </style>"
 
 ##Contact
 College of Charleston, Department of Hispanic Studies, Charleston, SC
-66 George Street, J.C. Long Building, Room 122,
+66 George Street, J.C. Long Building, Room 129, restreporamosfd@cofc.edu
 ##Profile
 * [CV](FalconCVProfessor.pdf)
 
