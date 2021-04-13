@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Falcon Restrepo-Ramos, PhD.
+title: Falcon Restrepo-Ramos
 
 # Your name to show in the footer
 author: Falcon RR
@@ -14,12 +14,12 @@ author: Falcon RR
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Teaching: "aboutme"
+  Teaching: "teaching"
+  Research: "research"
+  Your class here:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Research: "aboutme"
   About/Contact: "aboutme"
-  Home: "falconrr.github.io"
 
 # --- Logo --- #
 
