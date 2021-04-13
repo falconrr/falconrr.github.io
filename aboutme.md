@@ -7,7 +7,7 @@ avatar: <img align="left" width="300" height="200" src="/assets/img/Perfil.jpg">
 College of Charleston, Department of Hispanic Studies, Charleston, SC
 66 George Street, J.C. Long Building, Room 122,
 ##Profile
-* [CV](https://github.com/falconrr/falconrr.github.io/blob/master/FalconCVProfessor.pdf)
+* [CV](FalconCVProfessor.pdf)
 
 ##Education
 * PhD (2019), Hispanic Linguistics, [University of Florida](https://spanishandportuguese.ufl.edu/)
