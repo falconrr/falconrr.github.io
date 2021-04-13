@@ -25,7 +25,7 @@ of Old Providence and Santa Catalina, Colombia. In Pascual y Cabo D., Elola I. (
 Florida Linguistics Yearly Meeting, 6 (1), pp. 76-90. (https://journals.flvc.org/floridalinguisticspapers/article/view/116773)
 
 ***Other Contributions***
-3. Restrepo-Ramos, F. (2019). Condences from the GTA Life: The Path to Professional Development.
+3. Restrepo-Ramos, F. (2019). Confidences from the GTA Life: The Path to Professional Development.
 [Online] A blog contribution for Successful Teaching. Available on: (https://successfulteaching.wordpress.com/)
 2. Restrepo-Ramos, F. (2019). El espa~nol en Estados Unidos: Un recorrido breve por su origen y expansión. CuéntELE: Recorridos e Itinerarios. 5ta Ed., Primavera 2019, Idiomas EAFIT, Medellín, Colombia. (https://issuu.com/cuentele/docs/revista_5_publicar)
 1. Restrepo-Ramos, F. (2018) Gabmap - A web application for mapping dialectal diversity: Bringing insights
