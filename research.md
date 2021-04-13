@@ -4,6 +4,13 @@ title: "<span style='font-size: 50px'> Research and Publications </style>"
 subtitle:
 ---
 
+***Current Projects***
+Applying my research in sociolinguistics, second language acquisition, and computational linguistics, I am currently developing a cutting-edge program, SEÑAL, that analyzes L2 Spanish compositions. SEÑAL is comprised of several Natural Language Processing (NLP) components, namely a syntactic and lexical analyzer, a spelling and grammar checker, a text classifier of L2 proficiency, and a machine translation detection system. The program has a patent pending, and it is expected to be deployed as a free web application during Spring 2022.
+
+Currently, I am in the process of submitting an annotated corpus of Islander Creole to AILLA, the Archive of the Indigenous Languages of Latin America. The documentation of Raizal Creole entails the development of natural language parsers and part-of-speech taggers and opens the path for the creation of NLP tools for Caribbean indigenous languages.
+
+In addition, dialectal variation in the Valle de Aburra, Colombia, constitutes another major area of my research. Data collected on the production and perception of competing second-person singular forms of address (2PS) unveil patterns of variable use and preference of voseo across inhabitants of the Valle de Aburra based on age and sex. Specifically, my research has revealed previously undocumented syntactic and lexical patterns of 2PS usage in this variety using NLP tools. Future work will include data collected in the Spanish of Valparaiso, Chile, and the comparative analysis of 2PS in Medellin and Valparaiso. 
+
 ***Peer-Reviewed Articles***
 2. Restrepo Ramos, F. (Forthcoming). Writing to increase complexity: Spanish L2 learners' complexity
 gains in a college composition class. <em>Hispania: Special Edition on Digital Humanities.</em>
