@@ -1,13 +1,7 @@
 ---
 layout: page
-title: CV and contact Info
+title: CV and Contact
 #subtitle: Developing in students deep cultural and linguistic competence with the use of data-driven skills for their future careers and professions.
 ---
 
-Look for your class below:
-
-### Classes
-
-* Introduction to Hispanic Linguistics
-
-## Project-Based Learning
+![alt text](/assets/img/Perfil.jpg)
