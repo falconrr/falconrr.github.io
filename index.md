@@ -4,7 +4,6 @@ title: "<span style='font-size: 50px'>Assistant</style> <span style='font-size: 
 subtitle: Spanish and Linguistics, College of Charleston
 img:
   - "/assets/img/Perfil2.jpg" : "Chile"
-  - "/assets/img/Falcon1.jpg" : "The Falcon"
 ---
 
 <div style="text-align:center">
