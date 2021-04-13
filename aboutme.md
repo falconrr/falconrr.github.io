@@ -3,7 +3,7 @@ layout: page
 title: "<span style='font-size: 50px'> Dr. Falcon Restrepo-Ramos </style>"
 ---
 
-<img align="center" width="300" height="200" src="/assets/img/Perfil.jpg">
+<img align="middle" width="300" height="200" src="/assets/img/Perfil.jpg">
 
 
 ###Contact
