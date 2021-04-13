@@ -7,7 +7,7 @@ subtitle: Spanish and Linguistics, College of Charleston
 
 <div id="cf">
   <img class="bottom" src="/assets/img/Perfil2.jpg" />
-  <img class="top" src="/assets/img/Perfil1.png" />
+  <img class="top" src="/assets/img/Perfil.jpg" />
 </div>
 
 <div style="text-align:center">
