@@ -9,5 +9,5 @@ img:
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp;
 <a href="https://falconrr.github.io/aboutme/" role="button" class="btn btn-primary">About Me</a>
-<a href="http://amigo.pythonanywhere.com/" role="button" class="btn btn-primary">SEÑAL</a>
+<a href="http://amigo.pythonanywhere.com/" role="button" class="btn btn-primary">SEÑALR</a>
 </div>
