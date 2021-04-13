@@ -1,23 +1,22 @@
-.header-section.has-img .no-img {
-  margin-top: 0;
-  background: #FCFCFC;
-  margin: 0 0 40px;
-  padding: 20px 0;
-  box-shadow: 0 0 5px #AAA;
+  @keyframes cf3FadeInOut {
+  0% {
+  opacity:1;
 }
-@media only screen and (max-width: 365px) {
-  .header-section.has-img .img {
-    margin-bottom: 0;
-  }
+45% {
+opacity:1;
 }
-.index-posts-title {
-  font-weight: 800;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 38px;
+55% {
+opacity:0;
 }
-@media only screen and (min-width: 768px) {
-  .index-posts-title {
-    margin-top: 10px;
-    font-size: 45px;
-  }
+100% {
+opacity:0;
+}
+}
+
+#cf3 img.top {
+animation-name: cf3FadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 10s;
+animation-direction: alternate;
 }
