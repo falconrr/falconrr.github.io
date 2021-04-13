@@ -5,4 +5,4 @@ title: "<span style='font-size: 50px'> CV and Contact Info </style>"
 ---
 
 <img align="left" width="300" height="200" src="/assets/img/Perfil.jpg">
-https://docs.google.com/viewer?url=https://github.com/falconrr/falconrr.github.io/blob/master/FalconCVProfessor.pdf
+ Here is my CV [CV](https://docs.google.com/viewer?url=https://github.com/falconrr/falconrr.github.io/blob/master/FalconCVProfessor.pdf)
