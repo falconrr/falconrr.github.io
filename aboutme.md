@@ -1,8 +1,12 @@
 ---
 layout: page
 title: "<span style='font-size: 50px'> Dr. Falcon Restrepo-Ramos </style>"
-avatar: <img align="left" width="300" height="200" src="/assets/img/Perfil.jpg">
+
 ---
+```{r}
+<img align="center" width="300" height="200" src="/assets/img/Perfil.jpg">
+```
+
 ##Contact
 College of Charleston, Department of Hispanic Studies, Charleston, SC
 66 George Street, J.C. Long Building, Room 122,
