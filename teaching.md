@@ -37,6 +37,6 @@ I also applied this teaching strategy utilizing three course development grants 
 ### Teaching Awards
 ***Calvin A. VanderWerf For Excellence in Teaching Award (2018-2019)*** The Graduate School Award for the Highest Ranked Graduate Teaching Assistant at the University of Florida for the 2018-2019 Academic Year.
 <p align="center">
-  <img width="500" height="700" src="/assets/img/Calvin.png" >
+  <img width="500" height="500" src="/assets/img/Calvin.png" >
 </p>
 ***Upper Division Teaching Award (2015-2016)*** Department of Spanish and Portuguese Studies, University of Florida.
