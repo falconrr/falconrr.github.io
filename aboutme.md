@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<span style='font-size: 50px'> Dr. Falcon Restrepo Ramos </style>"
+title: "<span style='font-size: 50px'> Dr. Falcon Restrepo-Ramos </style>"
 avatar: <img align="left" width="300" height="200" src="/assets/img/Perfil.jpg">
 ---
 ##Contact
