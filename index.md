@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "<span style='font-size: 50px'>Assistant</style> <span style='font-size: 50px'>Professor</style>"
-subtitle: Spanish and Linguistics, College of Charleston
+subtitle: Spanish and Linguistics at the College of Charleston
 css: "/assets/css/index.css"
 bigimg:
   - "/assets/img/Perfil2.jpg"
