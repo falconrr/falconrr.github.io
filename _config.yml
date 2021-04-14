@@ -19,8 +19,8 @@ navbar-links:
     - "<span style='font-size: 12px'> Publications </style>": "research"
     - SEÑAL: "http://amigo.pythonanywhere.com/"
   Your class here:
-    - NLP4Spanish: "https://www.markdowntutorial.com/"
-    - Data Analysis for Linguists: "https://beautifuljekyll.com"
+    - NLP4Spanish: "https://github.com/falconrr/NLP4SPanish/"
+    - Data Analysis for Linguists: "https://github.com/falconrr/DataAnalysis4Ling"
   About/Contact: "aboutme"
 
 # --- Logo --- #
