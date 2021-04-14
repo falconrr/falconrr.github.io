@@ -8,7 +8,7 @@ bigimg:
   - "/assets/img/Perfil.jpg"
   - "/assets/img/PaisajeSAI2.jpg"
 ---
-
+<link rel="stylesheet" href="/assets/css/index.css">
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp;
